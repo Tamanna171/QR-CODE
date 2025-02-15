@@ -1,0 +1,39 @@
+body{
+    background-color: #95a5a6;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.header{
+    text-align: center;
+}
+
+.box h1{
+    font-size: 30px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.box hr{
+    border: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+input[type="text"]{
+    width: 100%;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    outline: none;
+    margin: 10px;
+}
+
+qr{
+    margin: 40px 0px;
+}
